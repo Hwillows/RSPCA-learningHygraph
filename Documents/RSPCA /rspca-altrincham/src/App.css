@@ -1,0 +1,10 @@
+.raleway {
+  font-family: "Raleway", sans-serif;
+}
+.ralewaybody {
+  font-family: "Raleway", sans-serif;
+  font-weight: lighter;
+}
+.paw {
+  background-image: url("./paw.png");
+}
